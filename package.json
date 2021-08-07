@@ -1,0 +1,25 @@
+{
+  "name": "middlewares-sample",
+  "version": "1.0.0",
+  "description": "A sample repository which you can use to create custom middleware and pass data to it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush-Use-Personal/middlewares-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyush-Use-Personal/middlewares-sample/issues"
+  },
+  "homepage": "https://github.com/Piyush-Use-Personal/middlewares-sample#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
